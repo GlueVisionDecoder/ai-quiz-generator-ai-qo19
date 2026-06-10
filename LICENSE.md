@@ -1,4 +1,4 @@
-# 
+# Turbo AI Language Translator (Custom) préréglages. Avec modèles d'apprentissage profond et reconnaissance vocale — optimisé pour des performances maximales.
 
 
 
